@@ -94,6 +94,12 @@ module.exports = {
     ],
 
     sidebar: sidebar,
+
+    algolia: {
+      appId: 'V5ZHWPCL1S',
+      apiKey: 'ae1bee3121f8b75675155cc05b353512',
+      indexName: 'developer-wax',
+    }
   },
 
   /**
